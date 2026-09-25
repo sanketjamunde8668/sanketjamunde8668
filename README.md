@@ -10,7 +10,9 @@
 
 </div>
 
-I'm passionate about building useful digital solutions and learning new technologies. I enjoy turning ideas into real projects and continuously improving my skills.
+I'm Sanket, a Freelance Web Developer and CS student who loves building simple, modern, user-friendly websites.
+My focus is Web Development, AI Automation, and WhatsApp Automation — helping businesses work smarter with simple, powerful tech.
+I believe in learning by building. Every project I create teaches me something new and pushes me to grow as a developer.
 
 <br/>
 
